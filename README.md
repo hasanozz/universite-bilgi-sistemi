@@ -12,6 +12,9 @@
 
 Bu sayfadan diğer sayfalara geçiş yapabilmek için kullanıcı adına herhangi bir şey ve Şifre kısmına; öğrenci için : ogrenci, öğretmen için : hoca ve asistan için : asistan yazmamız gerekiyor.
 
+![WhatsApp Görsel 2024-11-14 saat 03 14 48_fcdf933e](https://github.com/user-attachments/assets/71bf557c-2c84-43b0-b08c-f92355f676fa)
+
+
 ![WhatsApp Görsel 2024-11-14 saat 03 14 48_fcdf933e](https://github.com/user-attachments/assets/c4c36707-ac1e-4341-9e89-5d4ae606ad7f)
 
 

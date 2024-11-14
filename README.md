@@ -1,4 +1,4 @@
-![WhatsApp Görsel 2024-11-14 saat 03 14 48_49c2e2a5](https://github.com/user-attachments/assets/c27412ae-53d0-4007-80df-55f121322c8e)# Universite Bilgi Sistemi
+# Universite Bilgi Sistemi
 
 İstanbul Medeniyet Üniversitesi Mobil Programlama dersi ödevim için Flutter ile geliştirdiğim basit bir uygulamadır
 
